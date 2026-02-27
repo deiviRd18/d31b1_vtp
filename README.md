@@ -20,11 +20,11 @@ pip install scapy
 Otorga permisos de ejecución al script:
 
 Bash
-`chmod +x vtp_attack.py`
+`chmod +x d31b1_vtp_attack.py`
 Ejecuta el script con privilegios de administrador (requerido por Scapy para inyectar paquetes a nivel de enlace de datos):
 
 Bash
-`sudo python3 vtp_attack.py`
+`sudo python3 d31b1_vtp_attack.py`
 Sigue el menú interactivo para ingresar:
 
 El dominio VTP objetivo (ej. itla).
